@@ -6,7 +6,8 @@ MD-DOC-FILES
 [![version][version-badge]][changelog]
 [![Licencia][license-badge]][license]
 [![Código de conducta][conduct-badge]][conduct]
-[![Donate][donate-badge]][donate-url]
+
+[![Donate][donate-badge]][donate-url] <img src="https://img.shields.io/liberapay/patrons/ONovasDev.svg?logo=liberapay">
 
 ---
 
@@ -23,8 +24,8 @@ Este proyecto reune una serie de archivos .MD que suelo usar en mis proyectos:
 
 [mi-web]: https://oscarnovas.com "for developers"
 
-[version]: v1.0.1
-[version-badge]: https://img.shields.io/badge/Versión-1.0.1-blue.svg
+[version]: v1.0.2
+[version-badge]: https://img.shields.io/badge/Versión-1.0.2-blue.svg
 
 [license]: LICENSE.md
 [license-badge]: https://img.shields.io/badge/Licencia-GPLv3+-green.svg "Leer la licencia"

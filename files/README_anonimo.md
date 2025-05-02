@@ -15,8 +15,8 @@ module_template_name
 
 ## Requisitos
 Este módulo necesita para su correcto funcionamiento una versión superior
-a la 8.8.x de Drupal.  
-Aunque se recomiendan las versiones superiores a la 9.x.x
+a la 10.3.x de Drupal.  
+Aunque se recomiendan las versiones superiores a la 11.x.x
 
 ---
 
