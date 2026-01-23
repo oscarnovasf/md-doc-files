@@ -6,6 +6,15 @@ Todos los cambios notables de este proyecto se documentarán en este archivo.
   > Ver TODO.md
 
 ---
+* ## [v1.0.3] - 2026-01-23
+  > Revisión.
+
+  * #### Añadido:
+  - Archivo SECURITY.md.
+  - Archivo REAME_anonimo_2.md que sólo tiene versión.
+  - Otras configuraciones para github.
+
+---
 * ## [v1.0.2] - 2025-05-02
   > Revisión.
 

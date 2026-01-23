@@ -12,11 +12,13 @@ MD-DOC-FILES
 ---
 
 ## Información
-Este proyecto reune una serie de archivos .MD que suelo usar en mis proyectos:
+Este proyecto reúne una serie de archivos markdown (.md) que suelo usar en mis
+proyectos:
 - CHANGELOG.md
 - CODE_OF_CONDUCT.md
 - LICENSE.md
 - README.md
+- SECURITY.md
 - TODO.md
 
 ---
@@ -24,8 +26,8 @@ Este proyecto reune una serie de archivos .MD que suelo usar en mis proyectos:
 
 [mi-web]: https://oscarnovas.com "for developers"
 
-[version]: v1.0.2
-[version-badge]: https://img.shields.io/badge/Versión-1.0.2-blue.svg
+[version]: v1.0.3
+[version-badge]: https://img.shields.io/badge/Versión-1.0.3-blue.svg
 
 [license]: LICENSE.md
 [license-badge]: https://img.shields.io/badge/Licencia-GPLv3+-green.svg "Leer la licencia"
